@@ -4,7 +4,7 @@
 <img src="https://github.com/saikumar-A21.png" width="150" height="150" alt="avatar" /><br/>
 <h3>Sai Kumar A</h3>
 <sub>Full-Stack Web Developer | Recommender Systems Enthusiast</sub><br/>
-<sub>📍 Hyderabad, India</sub>sub><br/><br/>
+<sub>📍 Hyderabad, India</sub><br/><br/>
 <sub><b>Currently Learning: AI/ML</b></sub><br/>
 <img src="https://progress-bar.xyz/72/?width=180&progress_color=2ecc71&suffix=%25&title=&color=1a1b27" alt="learning progress" /><br/><br/>
 <a href="https://github.com/saikumar-A21"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>a>
@@ -28,13 +28,13 @@
 <td width="37%" align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=saikumar-A21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bf91f3&text_color=c0caf5&hide_rank=true" alt="GitHub Stats" /><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikumar-A21&layout=donut&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5&langs_count=6" alt="Top Languages" />
-</td>td>
-</tr>tr></table>
+</td>
+</tr></table>
 <h3 align="center">Featured Projects</h3>h3>
 <table align="center"><tr>
-  <td><a href="https://github.com/saikumar-A21/sai-code"><img src="https://github-readme-stats.vercel.app/api/pin/?username=saikumar-A21&repo=sai-code&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5" alt="sai-code" /></a>a></td>td>
-<td><a href="https://github.com/saikumar-A21/online-recommondation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=saikumar-A21&repo=online-recommondation&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5" alt="online-recommondation" /></a>a></td>td>
-<td><a href="https://github.com/saikumar-A21/e-commerce-day1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=saikumar-A21&repo=e-commerce-day1&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5" alt="e-commerce-day1" /></a>a></td>td>
+  <td><a href="https://github.com/saikumar-A21/sai-code"><img src="https://github-readme-stats.vercel.app/api/pin/?username=saikumar-A21&repo=sai-code&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5" alt="sai-code" /></a></td>
+<td><a href="https://github.com/saikumar-A21/online-recommondation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=saikumar-A21&repo=online-recommondation&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5" alt="online-recommondation" /></a></td>
+<td><a href="https://github.com/saikumar-A21/e-commerce-day1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=saikumar-A21&repo=e-commerce-day1&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5" alt="e-commerce-day1" /></a></td>
 </tr>tr></table>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saikumar-A21&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bf91f3&currStreakLabel=7aa2f7" alt="GitHub Streak" /></p>p></td></td>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saikumar-A21&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bf91f3&currStreakLabel=7aa2f7" alt="GitHub Streak" /></p></td></td>
 </tr></sub></h3>
