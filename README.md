@@ -36,5 +36,9 @@
 <td><a href="https://github.com/saikumar-A21/online-recommondation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=saikumar-A21&repo=online-recommondation&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5" alt="online-recommondation" /></a></td>
 <td><a href="https://github.com/saikumar-A21/e-commerce-day1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=saikumar-A21&repo=e-commerce-day1&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5" alt="e-commerce-day1" /></a></td>
 </tr></table>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saikumar-A21&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bf91f3&currStreakLabel=7aa2f7" alt="GitHub Streak" /></p></td></td>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikumar-A21&count_private=true&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bf91f3&currStreakLabel=7aa2f7" alt="GitHub Streak" />
+  </a>
+</p></td></td>
 </tr></sub></h3>
