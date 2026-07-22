@@ -2,7 +2,7 @@
 <table align="center"><tr valign="top">
 <td width="25%" align="center">
 <img src="https://github.com/saikumar-A21.png" width="150" height="150" alt="avatar" /><br/>
-<h3>Sai Kumar A.</h3>h3>
+<h3>Sai Kumar A</h3>h3>
 <sub>Full-Stack Web Developer | Recommender Systems Enthusiast</sub>sub><br/>
 <sub>📍 Hyderabad, India</sub>sub><br/><br/>
 <sub><b>Currently Learning: AI/ML</b>b></sub>sub><br/>
